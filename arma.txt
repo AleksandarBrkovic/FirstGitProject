@@ -17,6 +17,7 @@ public class Arma {
 		difesa= 25;
 		dannoCritico= danni*9;
 		resistenza=100;
+		//monke like banana
 	}
 	
 	public Arma(int d, int disC, int lvl, String n, int dif, int dC) {
